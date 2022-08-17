@@ -39,7 +39,7 @@ String CGPA6 = "A+ Grade Pass";
         System.out.println("CGPA = " + cgpa);
         System.out.println("percantage from CGPA = " + cgpa * 9.5);
         {
-            System.out.println("Average:  "+(tamil+english+maths+science+social)/5);
+            System.out.println("Average:  "+(tamil+english+maths+science+social+compscience)/6);
             System.out.println("Tamil:  "+tamil);
         }
         if(ss[0] >=1 && ss[0] <50)
