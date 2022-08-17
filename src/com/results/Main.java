@@ -28,8 +28,6 @@ String CGPA4 = "B Grade Pass";
 String CGPA5 = "A Grade Pass";
 String CGPA6 = "A+ Grade Pass";
 
-
-
         for (int i = 0; i < num; i++)
         {
             gg[i] = (ss[i] / 10);
